@@ -88,6 +88,10 @@ The [Product Equilibrium Review](templates/product-equilibrium-review.md) offers
 
 Claritorium cultivates clarity. Equilio creates value.
 
+## Agent Skills
+
+The [Skills repository](https://github.com/drewbarontini/skills) turns recurring methods from Claritorium and Equilio into portable, executable capabilities for compatible AI agents. Skills operationalize these Systems, Models, and Patterns; they do not replace the source material.
+
 ## Read More
 
 - [Product Equilibrium](https://drewbarontini.com/newsletter/64-product-equilibrium/) — The original introduction to Equilio.
