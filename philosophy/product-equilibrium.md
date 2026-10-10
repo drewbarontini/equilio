@@ -55,7 +55,7 @@ Equilibrium does not mean distributing effort evenly. It means sensing what the 
 
 ## Related
 
-- [Value Creation](../models/value-creation.md)
-- [Quality Refinement](../models/quality-refinement.md)
-- [Strategic Momentum](../models/strategic-momentum.md)
+- [Value Creation](value-creation.md)
+- [Quality Refinement](quality-refinement.md)
+- [Strategic Momentum](strategic-momentum.md)
 - [Product Equilibrium newsletter](https://drewbarontini.com/newsletter/64-product-equilibrium/)

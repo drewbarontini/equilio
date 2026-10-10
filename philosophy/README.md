@@ -20,13 +20,15 @@ Without Intuition, teams create noise. Without Integration, they create misalign
 
 | Model | Purpose |
 | --- | --- |
-| [Value Creation](../models/value-creation.md) | Build the right things. |
-| [Quality Refinement](../models/quality-refinement.md) | Elevate what exists. |
-| [Strategic Momentum](../models/strategic-momentum.md) | Sustain forward movement. |
+| [Value Creation](value-creation.md) | Build the right things. |
+| [Quality Refinement](quality-refinement.md) | Elevate what exists. |
+| [Strategic Momentum](strategic-momentum.md) | Sustain forward movement. |
 
 These are Equilio's **three Models**. They work together; none is a replacement for the others.
 
-[Product Equilibrium](../patterns/product-equilibrium.md) describes the ongoing balance between creating new value and refining what exists, with momentum keeping that balance moving. Equilibrium is an adaptive judgment, not an equal allocation of effort.
+[Product Equilibrium](product-equilibrium.md) describes the ongoing balance between creating new value and refining what exists, with momentum keeping that balance moving. Equilibrium is an adaptive judgment, not an equal allocation of effort.
+
+The [Product Equilibrium Review](product-equilibrium-review.md) is an optional practice for assessing what the product needs next.
 
 ## In Practice
 

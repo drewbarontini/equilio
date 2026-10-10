@@ -22,11 +22,11 @@ As AI accelerates output, judgment, shared understanding, and coherence become i
 
 The three Models remain the foundation:
 
-- [**Value Creation**](models/value-creation.md) — Build the right things.
-- [**Quality Refinement**](models/quality-refinement.md) — Elevate what exists.
-- [**Strategic Momentum**](models/strategic-momentum.md) — Sustain forward movement.
+- [**Value Creation**](philosophy/value-creation.md) — Build the right things.
+- [**Quality Refinement**](philosophy/quality-refinement.md) — Elevate what exists.
+- [**Strategic Momentum**](philosophy/strategic-momentum.md) — Sustain forward movement.
 
-[Product Equilibrium](patterns/product-equilibrium.md) describes the adaptive balance between creation and refinement, sustained by momentum. **Balance is motion, not stasis.**
+[Product Equilibrium](philosophy/product-equilibrium.md) describes the adaptive balance between creation and refinement, sustained by momentum. **Balance is motion, not stasis.**
 
 ### Flow
 

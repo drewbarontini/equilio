@@ -52,5 +52,5 @@ Practices are examples, not requirements. Adapt them to the product, team, and e
 
 ## Related
 
-- [Product Equilibrium](../patterns/product-equilibrium.md)
+- [Product Equilibrium](product-equilibrium.md)
 - [Product Equilibrium newsletter](https://drewbarontini.com/newsletter/64-product-equilibrium/)
