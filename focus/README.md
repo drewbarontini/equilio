@@ -18,61 +18,6 @@ Product Current is **not the Work Registry**. It selectively expresses strategic
 
 ## Product Current Template
 
-Copy the structure below into a shared, living document (such as Linear). **Link to source work instead of duplicating it.**
-
-```markdown
-# Product Current
-
-## Themes
-1. [Theme]
-2. [Theme]
-3. [Theme]
-4. [Theme]
-5. [Theme]
-
-## Work
-
-### Streams
-
-#### [Stream 1 title]
-- Theme: [Linked theme]
-- Mantra: [3–5 words]
-- Metric: [Outcome metric]
-- Bets:
-  - Live: [Linked bet / project]
-  - Building: [Linked bet / project]
-  - Next: [Linked bet / project]
-
-#### [Stream 2 title]
-- Theme: [Linked theme]
-- Mantra: [3–5 words]
-- Metric: [Outcome metric]
-- Bets:
-  - Live: [Linked bet / project]
-  - Building: [Linked bet / project]
-  - Next: [Linked bet / project]
-
-#### [Stream 3 title]
-- Theme: [Linked theme]
-- Mantra: [3–5 words]
-- Metric: [Outcome metric]
-- Bets:
-  - Live: [Linked bet / project]
-  - Building: [Linked bet / project]
-  - Next: [Linked bet / project]
-
-### Enablers
-- [Linked enabling work]
-
-### Experiments
-- [Linked Experiment task]
-
-## Memory
-- Feedback: [Link]
-- Signals: [Link]
-- Decisions: [Link]
-- Releases: [Link]
-- Updates: [Link]
-```
+[Copy the Product Current template](product-current-template.md) into Linear or another living workspace. Keep it concise and link to live work rather than duplicating the source of truth.
 
 As evidence changes, revise the focus. [Equilio Philosophy](../philosophy/README.md) guides the judgment; Flow supplies new learning.
