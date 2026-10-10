@@ -2,34 +2,77 @@
 
 **What matters now.**
 
-Equilio Focus is expressed through **Product Current**: the living, shareable synthesis of what the team is working on, why it matters, and what it is learning.
+Equilio Focus takes form in **Product Current**: a living, shareable synthesis of what we're working on, why it matters, and what we're learning.
 
-[Use the Product Current template](product-current-template.md) to create this artifact in Linear or another shared workspace. GitHub holds the definition and template; the team's actual Product Current stays live where the work happens.
+Product Current has three sections:
 
-## Product Current
+- **Themes:** Five strategic priorities that define direction.
+- **Work:** Three active **Streams**, plus independent **Enablers** and **Experiments**.
+- **Memory:** Five connected views—**Feedback, Signals, Decisions, Releases, Updates**.
 
-### Themes — Direction
+Each Stream has a **Theme, Title, Mantra, Metric**, and **Bets** in three positions: **Live, Building, Next**. Bets represent strategic commitments, commonly delivered as Projects.
 
-**Five strategic priorities** describe where the product is headed.
+Enablers strengthen shared capabilities. Experiments reduce uncertainty; in Linear, they are **Tasks designated as Experiments**. Either can contribute to one or more Streams, or stand independently. Neither needs to be placed within a Stream.
 
-### Work — Strategic Attention
+Product Current is **not the Work Registry**. It selectively expresses strategic focus; routine Fixes and Improvements can continue through [Equilio Flow](../flow/README.md) without becoming strategic initiatives. Product Memory is part of Product Current, not a separate artifact.
 
-**Streams:** Three active areas of concentrated strategic focus. Each Stream contains a Theme, Title, Mantra, Metric, and three **Bet positions: Live · Building · Next**. Bets are strategic commitments, commonly delivered as Projects.
+## Product Current Template
 
-**Enablers:** Shared investments that strengthen product capabilities, infrastructure, quality, or delivery. They can be Issues, Batches, or Projects, and can serve one or multiple Streams—or none directly.
+Copy the structure below into a shared, living document (such as Linear). **Link to source work instead of duplicating it.**
 
-**Experiments:** Active tests intended to reduce uncertainty and inform decisions. In Linear, these are Tasks designated as Experiments. They can inform Streams or Bets without occupying a Bet position, or explore questions independently.
+```markdown
+# Product Current
 
-Enablers and Experiments are **sections alongside Streams**, not required children of any Stream. Link relationships when they matter; do not duplicate work to imply ownership.
+## Themes
+1. [Theme]
+2. [Theme]
+3. [Theme]
+4. [Theme]
+5. [Theme]
 
-### Memory — Understanding
+## Work
 
-**Five connected views:** Feedback · Signals · Decisions · Releases · Updates.
+### Streams
 
-Product Memory is part of Product Current, not a separate competing strategic artifact. It helps the team interpret evidence, preserve decisions, and revisit direction.
+#### [Stream 1 title]
+- Theme: [Linked theme]
+- Mantra: [3–5 words]
+- Metric: [Outcome metric]
+- Bets:
+  - Live: [Linked bet / project]
+  - Building: [Linked bet / project]
+  - Next: [Linked bet / project]
 
-## What Product Current Is Not
+#### [Stream 2 title]
+- Theme: [Linked theme]
+- Mantra: [3–5 words]
+- Metric: [Outcome metric]
+- Bets:
+  - Live: [Linked bet / project]
+  - Building: [Linked bet / project]
+  - Next: [Linked bet / project]
 
-Product Current is **not the full Work Registry**, a backlog, or a gate for every Fix and Improvement. It is a deliberately compressed strategic view. The Work Registry remains the operational source of truth for the work and its status.
+#### [Stream 3 title]
+- Theme: [Linked theme]
+- Mantra: [3–5 words]
+- Metric: [Outcome metric]
+- Bets:
+  - Live: [Linked bet / project]
+  - Building: [Linked bet / project]
+  - Next: [Linked bet / project]
 
-Focus directs [Equilio Flow](../flow/README.md); Flow produces evidence that updates Focus. [Equilio Philosophy](../philosophy/README.md) guides judgment across both.
+### Enablers
+- [Linked enabling work]
+
+### Experiments
+- [Linked Experiment task]
+
+## Memory
+- Feedback: [Link]
+- Signals: [Link]
+- Decisions: [Link]
+- Releases: [Link]
+- Updates: [Link]
+```
+
+As evidence changes, revise the focus. [Equilio Philosophy](../philosophy/README.md) guides the judgment; Flow supplies new learning.

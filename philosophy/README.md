@@ -2,37 +2,34 @@
 
 **How we think.**
 
-**Create value.**
-
-Equilio applies the broader [Claritorium](https://github.com/drewbarontini/claritorium) philosophy to product work. It provides enduring principles for exercising judgment, not a process that teams must follow.
+The purpose of Equilio is to **create value**. Its philosophy guides product judgment without prescribing a universal process.
 
 ## Core Engine
 
 **Intuition → Integration → Iteration**
 
-- **Intuition** — Sense what matters before it becomes obvious.
-- **Integration** — Align intelligence, context, and understanding before acting.
-- **Iteration** — Turn understanding into validated value through action and feedback.
+- **Intuition:** Sense what matters before it becomes obvious.
+- **Integration:** Align intelligence, context, and understanding before acting.
+- **Iteration:** Turn understanding into validated value through action and feedback.
 
-Without Intuition, teams create noise. Without Integration, they create misalignment. Without Iteration, they stall.
+Without Intuition, teams create noise. Without Integration, teams create misalignment. Without Iteration, teams stall.
 
 ## Three Models
 
 | Model | Purpose |
 | --- | --- |
-| [Value Creation](value-creation.md) | Build the right things. |
-| [Quality Refinement](quality-refinement.md) | Elevate what exists. |
-| [Strategic Momentum](strategic-momentum.md) | Sustain forward movement. |
+| **Value Creation** | Build the right things. |
+| **Quality Refinement** | Elevate what exists. |
+| **Strategic Momentum** | Sustain forward movement. |
 
-These are Equilio's **three Models**. They work together; none is a replacement for the others.
+These are Equilio's three Models, not phases or separate teams.
 
-[Product Equilibrium](product-equilibrium.md) describes the ongoing balance between creating new value and refining what exists, with momentum keeping that balance moving. Equilibrium is an adaptive judgment, not an equal allocation of effort.
+**Product Equilibrium** is the ongoing balance between creating new value and refining existing quality. Strategic Momentum sustains that movement. Balance is motion, not stasis.
 
-The [Product Equilibrium Review](product-equilibrium-review.md) is an optional practice for assessing what the product needs next.
+AI-accelerated output makes **coherence** a central constraint:
 
-## In Practice
+- **Product:** Does the experience behave consistently and feel like one product?
+- **Code:** Does the architecture remain understandable and maintainable?
+- **Strategy:** Does the team understand what it is doing, why, and where the product is headed?
 
-Philosophy should be visible in the team's choices: which problems deserve attention, how it protects product, code, and strategy coherence, and whether what ships creates meaningful value.
-
-- [Equilio Flow](../flow/README.md) describes how that judgment becomes action.
-- [Equilio Focus](../focus/README.md) describes how strategic direction and current understanding stay shared.
+Philosophy informs both [Equilio Flow](../flow/README.md) and [Equilio Focus](../focus/README.md).
