@@ -26,7 +26,7 @@ Equilio Flow tells the story of how work emerges from reality, takes shape, crea
 
 **Learn — Product Memory.** Observe feedback and outcomes. Integrate **Feedback → Signals → Decisions → Releases → Updates** into the living Memory views of Product Current.
 
-An **Experiment** is a **Task designated as an Experiment** in Linear. It tests uncertainty wherever needed and may inform a Stream or independent exploration; it is not a fourth Work Form or required step.
+An **Experiment** is a **Task designated for learning** (for example, with an Experiment type or label). It tests uncertainty wherever needed and may inform a Stream or independent exploration; it is not a fourth Work Form or required step.
 
 The five movements describe a **continuous, adaptive loop**, not mandatory sequential stages. Learning can redirect work in progress, and new signals can enter at any time.
 
